@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3  Date: 9/1/2014 3:02:54 PM
+#encoding utf-8
+#
+# FZ-RCA-PHONO
+#
+DEF FZ-RCA-PHONO J 0 40 Y Y 1 F N
+F0 "J" 0 -195 60 H V C CNN
+F1 "FZ-RCA-PHONO" 0 125 60 H V C CNN
+F2 "~" 0 -195 60 H V C CNN
+F3 "~" 0 -195 60 H V C CNN
+DRAW
+C 0 0 25 0 1 0 N
+C 0 0 55 0 1 0 N
+P 3 0 1 0  -50 -100  0 -100  0 -50 N
+X center 1 -150 0 118 R 50 50 1 1 B
+X shield 2 -150 -100 118 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
